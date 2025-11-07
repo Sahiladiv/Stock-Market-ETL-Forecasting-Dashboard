@@ -36,7 +36,7 @@ This app allows you to:
 
 ---
 
-## 🧪 Features
+## Features
 
 ### ETL Flow (via Prefect or UI)
 - Extracts historical stock data (Open, High, Low, Close, Volume)
