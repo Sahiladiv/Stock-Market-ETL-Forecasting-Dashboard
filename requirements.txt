@@ -1,0 +1,11 @@
+prefect
+yfinance
+pandas
+sqlalchemy
+pymysql
+python-dotenv
+
+plotly
+streamlit
+
+tensorflow
